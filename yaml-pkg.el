@@ -1,2 +1,2 @@
 ;; Generated package description from yaml.el  -*- no-byte-compile: t -*-
-(define-package "yaml" "1.2.2.0.20260112.130812" "YAML parser for Elisp" '((emacs "25.1")) :commit "7b33b3a1b69f46e22cd6ddf92ab0dfe9c0512187" :authors '(("Zachary Romero" . "zkry@posteo.org")) :maintainer '("Zachary Romero" . "zkry@posteo.org") :keywords '("tools") :url "https://github.com/zkry/yaml.el")
+(define-package "yaml" "1.2.3.0.20260113.65351" "YAML parser for Elisp" '((emacs "25.1")) :commit "f2369fb4985ed054be47ae111760ff2075dff72a" :authors '(("Zachary Romero" . "zkry@posteo.org")) :maintainer '("Zachary Romero" . "zkry@posteo.org") :keywords '("tools") :url "https://github.com/zkry/yaml.el")
